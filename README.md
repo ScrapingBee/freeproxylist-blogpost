@@ -8,7 +8,7 @@ Python 3
 
 ```pip install requests```
 
-```pip install beautifulsoup4````
+```pip install beautifulsoup4```
 
 A ScrapingBee API key, you can get one here for free with 1000 credits: https://www.scrapingbee.com/
 
